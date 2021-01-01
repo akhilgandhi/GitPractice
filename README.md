@@ -1,1 +1,1 @@
-Repository to practice GIT.
+Repository to practice GIT functions as i need the fundamental knowledge of GIT.
